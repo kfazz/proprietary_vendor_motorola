@@ -149,9 +149,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sholes/proprietary/libpppd_plugin-ril.so:/system/lib/libpppd_plugin-ril.so \
     vendor/motorola/sholes/proprietary/chat-ril:/system/bin/chat-ril \
     vendor/motorola/sholes/proprietary/pppd-ril:/system/bin/pppd-ril \
-    vendor/motorola/sholes/proprietary/pppd-ril.options:/system/etc/ppp/peers/pppd-ril.options 
-
-#device/motorola/sholes/prebuilt/lib/libOMX.TI.JPEG.Encoder.so:/system/etc/lib/libOMX.TI.JPEG.Encoder.so
+    vendor/motorola/sholes/proprietary/pppd-ril.options:/system/etc/ppp/peers/pppd-ril.options \
+    device/motorola/sholes/prebuilt/lib/libOMX.TI.JPEG.Encoder.so:/system/etc/lib/libOMX.TI.JPEG.Encoder.so
 
 
 
